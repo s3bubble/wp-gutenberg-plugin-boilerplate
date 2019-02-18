@@ -1,4 +1,4 @@
 /**
  * Import blocks
  */
-import './blocks/block.js';
+import './blocks/block.js'; 
